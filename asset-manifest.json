@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AviaSales/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/AviaSales/static/js/main.47cdd6c3.chunk.js",
+    "main.js.map": "/AviaSales/static/js/main.47cdd6c3.chunk.js.map",
+    "runtime-main.js": "/AviaSales/static/js/runtime-main.50635c6e.js",
+    "runtime-main.js.map": "/AviaSales/static/js/runtime-main.50635c6e.js.map",
+    "static/js/2.8b836f62.chunk.js": "/AviaSales/static/js/2.8b836f62.chunk.js",
+    "static/js/2.8b836f62.chunk.js.map": "/AviaSales/static/js/2.8b836f62.chunk.js.map",
+    "index.html": "/AviaSales/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/AviaSales/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8b836f62.chunk.js.LICENSE.txt": "/AviaSales/static/js/2.8b836f62.chunk.js.LICENSE.txt",
+    "static/media/logo.dce2d712.svg": "/AviaSales/static/media/logo.dce2d712.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50635c6e.js",
+    "static/js/2.8b836f62.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.47cdd6c3.chunk.js"
+  ]
+}
